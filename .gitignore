@@ -1,0 +1,5 @@
+# Ignore all .tif files
+*.tif
+
+# Ignore tempCodeRunnerFile.py
+tempCodeRunnerFile.py
